@@ -1,7 +1,6 @@
 {
-  "name": "GIVE",
-  "description": "GIVE Pool",
-  "ticker": "GIVE",
-  "homepage": "https://givepool.io",
-  "extended": "https://raw.githubusercontent.com/trand2/GIVE/main/poolExtendedMetaData.json"
+"name": "GIVE",
+"description": "GIVE Pool",
+"ticker": "GIVE",
+"homepage": ""
 }
