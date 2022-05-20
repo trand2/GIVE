@@ -1,6 +1,7 @@
 {
 "name": "GIVE",
-"description": "GIVE Pool",
+"description": "We are bridging the digital divide through the building, connecting, and educating of smart villages! $ADA & $WMT Pool Operators",
 "ticker": "GIVE",
-"homepage": ""
+"homepage": "https://www.givepool.io",
+"extended": "https://raw.githubusercontent.com/trand2/GIVE/main/poolExtendedMetaData.json"
 }
