@@ -1,5 +1,8 @@
 {
     "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/trand2/GIVE/eb03bcebd3c0f55fcfc96970a8d9c2eb8e0fdaf5/giveIcon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/trand2/GIVE/eb03bcebd3c0f55fcfc96970a8d9c2eb8e0fdaf5/giveLogoMin.png",
+        "location": "Utah, United States",
         "social": {
             "twitter_handle": "dao_give",
             "facebook_handle": "give.dao",
